@@ -1,4 +1,4 @@
-package hw08;
+package src;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.shape.Arc;
